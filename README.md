@@ -290,3 +290,31 @@ for i, word_pair in enumerate(word_pairs_to_check_against_each_other):
 ## Next up
 
 So we have created the sentence preprocessing pipeline and the sparse projection (random hashing) function. We now need a few feedforward layers on top of that. 
+
+Also, a few things could be optimized, such as using the power set of the possible n-gram values with a predefined character set instead of fitting it, and the Hashing's fit function could be avoided as well by passing the random seed earlier, because the Hasher doesn't even look at the data and it only needs to be created at some point. This would yield a truly embedding-free approach. Free to you to implement this. I wanted to have something that worked first, leaving optimization for later.
+
+
+## License
+
+
+BSD 3-Clause License
+
+
+Copyright (c) 2018, Guillaume Chevalier
+
+All rights reserved.
+
+
+## Extra links
+
+### Connect with me
+
+- [LinkedIn](https://ca.linkedin.com/in/chevalierg)
+- [Twitter](https://twitter.com/guillaume_che)
+- [GitHub](https://github.com/guillaume-chevalier/)
+- [Quora](https://www.quora.com/profile/Guillaume-Chevalier-2)
+- [YouTube](https://www.youtube.com/c/GuillaumeChevalier)
+- [Dev/Consulting](http://www.neuraxio.com/en/)
+
+### Liked this piece of code? Did it help you? Leave a [star](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer/stargazers), [fork](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer/network/members) and share the love!
+
