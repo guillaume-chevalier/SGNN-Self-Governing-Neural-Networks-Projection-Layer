@@ -1,5 +1,5 @@
 
-# Self Governing Neural Networks (SGNN): the Projection Layer
+# [Self Governing Neural Networks (SGNN): the Projection Layer](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer)
 
 > A SGNN's word projections preprocessing pipeline in scikit-learn
 
