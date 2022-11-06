@@ -309,12 +309,9 @@ All rights reserved.
 
 ### Connect with me
 
-- [LinkedIn](https://ca.linkedin.com/in/chevalierg)
-- [Twitter](https://twitter.com/guillaume_che)
 - [GitHub](https://github.com/guillaume-chevalier/)
-- [Quora](https://www.quora.com/profile/Guillaume-Chevalier-2)
+- [LinkedIn](https://ca.linkedin.com/in/chevalierg)
 - [YouTube](https://www.youtube.com/c/GuillaumeChevalier)
-- [Dev/Consulting](http://www.neuraxio.com/en/)
 
 ### Liked this piece of code? Did it help you? Leave a [star](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer/stargazers), [fork](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer/network/members) and share the love!
 
